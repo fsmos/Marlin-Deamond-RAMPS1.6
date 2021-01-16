@@ -59,7 +59,7 @@
 //#define BOARD_CUSTOM_BUILD_FLAGS -D__FOO__
 
 #ifndef BOARD_INFO_NAME
-  #define BOARD_INFO_NAME "RAMPS 1.4"
+  #define BOARD_INFO_NAME "RAMPS 1.6"
 #endif
 
 //
